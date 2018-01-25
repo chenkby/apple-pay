@@ -5,13 +5,13 @@
 composer
 
 ```bash
-$ php composer.phar require chenkby/applepay:1.0
+$ php composer.phar require chenkby/apple-pay:1.0
 ```
 
 或者添加以下代码到`composer.json`文件的`require`块中：
 
 ```
-"chenkby/applepay": "1.0"
+"chenkby/apple-pay": "1.0"
 ```
 
 ## 使用
