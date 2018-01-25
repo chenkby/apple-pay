@@ -1,5 +1,5 @@
 {
-    "name": "chenkby/applepay",
+    "name": "chenkby/apple-pay",
     "description": "苹果内购",
     "keywords": [
         "apple pay"
@@ -21,4 +21,3 @@
         }
     }
 }
-
