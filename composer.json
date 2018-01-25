@@ -1,0 +1,23 @@
+{
+    "name": "chenkby/applepay",
+    "description": "苹果内购",
+    "keywords": [
+        "apple pay"
+    ],
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "ChenGuanQun",
+            "email": "99912250@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "chenkby\\apple-pay\\": "src"
+        }
+    }
+}
