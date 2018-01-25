@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "chenkby\\apple-pay\\": "src"
+            "chenkby\\applepay\\": "src"
         }
     }
 }
